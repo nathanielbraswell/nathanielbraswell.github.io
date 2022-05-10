@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nathaniel Braswell"
 title_separator          : "-"
 name                     : &name Nathaniel Braswell
-description              : &description "personal description"
+description              : &description "Aspiring Cognitive Scientist"
 url                      : https://nathanielbraswell.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nathanielbraswell/nathanielbraswell.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Nathaniel Braswell"
+  avatar           : "image_5336.png"
+  bio              : "Aspiring Cognitive Scientist"
+  location         : "Claremont, California"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=mehdugkAAAAJ&gmla=AJsN-F78AO3wgb_wI8Sz5djjTf3XA7YCYTkYOp5KkA3wwfsIx261L1KX4hSzXH_qGa08qpGJyRAftFtNiPooe1PrnqJ5VaCYYIhdU3Ks8IdJvxIqnl3noxI"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "nathanielbraswell"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
