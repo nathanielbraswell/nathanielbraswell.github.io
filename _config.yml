@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nathaniel Braswell"
-  avatar           : "IMG_5336.jpg"
+  avatar           : "IMG_5336 copy.jpg"
   bio              : "Aspiring Cognitive Scientist"
   location         : "Claremont, California"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
