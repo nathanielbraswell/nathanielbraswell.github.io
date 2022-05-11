@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nathaniel Braswell"
   avatar           : "IMG_5336_copy.jpg"
-  bio              : "Aspiring Cognitive Scientist"
+  bio              : "Aspiring Cognitive Scientist and Experimental Psychologist"
   location         : "Claremont, California"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=mehdugkAAAAJ&gmla=AJsN-F78AO3wgb_wI8Sz5djjTf3XA7YCYTkYOp5KkA3wwfsIx261L1KX4hSzXH_qGa08qpGJyRAftFtNiPooe1PrnqJ5VaCYYIhdU3Ks8IdJvxIqnl3noxI"
-  email            :
+  email            : nbraswell23@cmc.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/nathaniel-braswell-043710195/"
   orcid            : 
   pinterest        :
   soundcloud       :
