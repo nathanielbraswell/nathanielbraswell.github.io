@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-!(images/IMG_6989.jpg)
+!(IMG_6989.jpg)
 
 About Me
 ======
