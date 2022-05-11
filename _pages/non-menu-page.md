@@ -7,7 +7,7 @@ redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
-<img src="IMG_6989.jpg" width="900" height="600"/>
+<img src="/Users/nathaniel/Documents/Website/_pages/IMG_6989.jpg" width="900" height="600"/>
 
 
 
