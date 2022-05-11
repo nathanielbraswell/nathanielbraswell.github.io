@@ -19,7 +19,7 @@ I am currently working toward my BA in Cognitive Science with a concentration in
 
 Other Interests
 ======
-When not performing research, I serve as a teaching assistant in Pomona College's cognitive neuroscience program and as a regular writer for the Claremont Colleges' [philosophy journal](https://tabularasaclaremont.com/){:target="\_blank"}. I also obsess over solving Rubik's cubes (click [here]() for a picture of my ever-growing collection) and showing off photoshoots of my pet hedgehog, [Alfredo](nathanielbraswell.github.io/non-menu-page/){:target="\_blank"}.
+When not performing research, I serve as a teaching assistant in Pomona College's cognitive neuroscience program and as a regular writer for the Claremont Colleges' [philosophy journal](https://tabularasaclaremont.com/){:target="\_blank"}. I also obsess over solving Rubik's cubes (click [here]() for a picture of my ever-growing collection) and showing off photoshoots of my pet hedgehog, [Alfredo](https://nathanielbraswell.github.io/non-menu-page/){:target="\_blank"}.
 
 
 
