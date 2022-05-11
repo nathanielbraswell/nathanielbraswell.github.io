@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="700" height="400"/>
+<img src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="900" height="600"/>
 
 
 About Me
@@ -19,7 +19,7 @@ I am currently working toward my BA in Cognitive Science with a concentration in
 
 Other Interests
 ======
-When not performing research, I serve as a teaching assistant in Pomona College's cognitive neuroscience program and as a regular writer for the Claremont Colleges' [philosophy journal](https://tabularasaclaremont.com/){:target="\_blank"}. I also obsess over solving Rubik's cubes (click [here]() for a picture of my ever-growing collection) and showing off photoshoots of my pet hedgehog, [Alfredo](){:target="\_blank"}.
+When not performing research, I serve as a teaching assistant in Pomona College's cognitive neuroscience program and as a regular writer for the Claremont Colleges' [philosophy journal](https://tabularasaclaremont.com/){:target="\_blank"}. I also obsess over solving Rubik's cubes (click [here]() for a picture of my ever-growing collection) and showing off photoshoots of my pet hedgehog, [Alfredo](nathanielbraswell.github.io/non-menu-page/).
 
 
 
