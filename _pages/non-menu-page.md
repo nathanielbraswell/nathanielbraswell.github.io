@@ -19,7 +19,7 @@ redirect_from:
 <img src="_pages/IMG_6989.jpg" width="900" height="600"/>
 </p>
 
-![Picture1](_pages/IMG_6989.jpg")
+![Picture1](https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/_pages/IMG_6989.jpg)
 
 
 
