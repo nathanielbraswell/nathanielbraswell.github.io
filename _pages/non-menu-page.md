@@ -11,10 +11,11 @@ redirect_from:
 ![Picture1](https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/_pages/IMG_6989.jpg)
 
 <p>
-<img src="https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/_pages/IMG_6989.jpg" alt="Picture 1" width="200"/>
+<img src="https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/_pages/IMG_6989.jpg" alt="Picture 1" width="800" height="600"style="display: block; margin: 0 auto" />
 </p>
 
-![Picture1](https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/_pages/IMG_6989.jpg = 100 x 20)
+ok
+
 
 
 
