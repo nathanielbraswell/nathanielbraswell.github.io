@@ -7,12 +7,20 @@ redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
+<br>
+
+<p>
 <img src="IMG_6989.jpg" width="900" height="600"/>
+</p>
 
-![Picture1](IMG_6989.jpg "1")
+<br>
 
-library(grid)
-img <- readPNG("/Users/nathaniel/Documents/Website/_pages/IMG_6989.png")
-grid.raster(img)
+<p>
+<img src="_pages/IMG_6989.jpg" width="900" height="600"/>
+</p>
+
+![Picture1](_pages/IMG_6989.jpg")
+
+
 
 
