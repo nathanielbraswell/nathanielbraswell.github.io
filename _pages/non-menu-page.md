@@ -8,7 +8,15 @@ redirect_from:
   - "/nmp.html"
 ---
 
-![Picture1](https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/_pages/IMG_6989.jpg)
+![Picture1](https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/_pages/IMG_6989.jpg =100x20)
+
+<p>
+<img src="https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/_pages/IMG_6989.jpg" alt="Picture 1" width="800" height="600" />
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/_pages/IMG_6989.jpg" alt="Picture 1" width="800" height="600" style="display: block; margin: 0 auto" />
+</p>
 
 <p>
 <img src="https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/_pages/IMG_6989.jpg" alt="Picture 1" width="800" height="600"style="display: block; margin: 0 auto" />
