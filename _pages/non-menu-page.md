@@ -9,5 +9,10 @@ redirect_from:
 ---
 <img src="IMG_6989.jpg" width="900" height="600"/>
 
+![Picture1](IMG_6989.jpg "1")
+
+library(grid)
+img <- readPNG("/Users/nathaniel/Documents/Website/_pages/IMG_6989.png")
+grid.raster(img)
 
 
