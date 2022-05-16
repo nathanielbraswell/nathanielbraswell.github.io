@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nathaniel Braswell"
-  avatar           : "IMG_5336_copy.jpg"
+  avatar           : "Headshot.jpg"
   bio              : "Aspiring Cognitive Scientist and Experimental Psychologist"
   location         : "Claremont, California"
   employer         :
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _projecs
   - scope:
       path: ""
-      type: teaching
+      type: projects
     values:
       layout: single
       author_profile: true
