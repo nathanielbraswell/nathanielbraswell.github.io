@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="https://github.com/nathanielbraswell/nathanielbraswell.github.io/blob/3f45a159eef779aa81bb9d4b4fe9307b5c2b6b63/images/Landscape.jpg"/>
+<img src="https://github.com/nathanielbraswell/nathanielbraswell.github.io/blob/ae2d2fad5462275886b9cfbf51fda0bd4d1bc6d6/images/Landscape.jpg"/>
 
 About Me
 ======
