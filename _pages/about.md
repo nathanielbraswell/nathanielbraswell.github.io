@@ -7,16 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p>
-<img src="https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/_pages/Landscape.jpg" alt="Picture 2" width ="600" height "450" style="display: block; margin: 0 auto" />
-</p>
 
 <p>
-<img src="https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/_pages/IMG_6989.jpg" alt="Picture 1" width="600" height="450" style="display: block; margin: 0 auto" />
-</p>
-
-<p>
-<img src="https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/_pages/IMG_6990.jpg" alt="Picture 1" width="600" height="450" style="display: block; margin: 0 auto" />
+<img src="https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/_pages/IMG_6990.jpg" alt="Picture 1" width="800" height="600" style="display: block; margin: 0 auto" />
 </p>
 
 About Me
