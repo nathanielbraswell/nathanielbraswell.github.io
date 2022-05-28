@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+xfun::embed_file("CurriculumVitae.pdf")
+
 <a href="CurriculumVitae.docx">Nathaniel Braswell</a>
 
 <object src="CurriculumVitae.pdf" type="application/pdf" title="CV" width="500" height="720">
@@ -18,6 +20,8 @@ redirect_from:
 <embed src="CurriculumVitae.pdf" width="1000" height="800" frameborder="0" allowfullscreen>
 
 <iframe src="CurriculumVitae.pdf" style="width:1000px; height:800px;" frameborder="0" allowfullscreen></iframe>
+
+hi
 
 Education
 ======
