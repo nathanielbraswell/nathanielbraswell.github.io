@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p>
-<img src="https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/_pages/IMG_6990.jpg" alt="Picture 1" width="800" height="600" style="display: block; margin: 0 auto" />
+<img src="https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/_pages/IMG_6990.jpg" alt="Picture 1" width="790" height="600" style="display: block; margin: 0 auto" />
 </p>
 
 About Me
@@ -21,7 +21,7 @@ I am currently working toward my BA in Cognitive Science with a concentration in
 
 Other Interests
 ======
-When not performing research, I serve as a teaching assistant in Pomona College's cognitive neuroscience program and as a regular writer for the Claremont Colleges' [philosophy journal](https://tabularasaclaremont.com/){:target="\_blank"}. I also obsess over solving Rubik's cubes and showing off photoshoots of my pet hedgehog, [Alfredo](https://nathanielbraswell.github.io/Alfredo/){:target="\_blank"}.
+When not performing research, I serve as a teaching assistant in Pomona College's cognitive neuroscience program and as a regular writer for the Claremont Colleges' [philosophy journal](https://tabularasaclaremont.com/){:target="\_blank"}. I also enjoy  solving Rubik's cube variants and showing off photoshoots of my pet hedgehog, [Alfredo](https://nathanielbraswell.github.io/Alfredo/){:target="\_blank"}.
 
 
 
