@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p>
-<img src="https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/images/Landscape.jpg" alt="Headshot" width ="600" height "450" style="display: block; margin: 0 auto" />
+<img src="https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/_pages/Landscape.jpg" alt="Picture 2" width ="600" height "450" style="display: block; margin: 0 auto" />
 </p>
 
 <p>
