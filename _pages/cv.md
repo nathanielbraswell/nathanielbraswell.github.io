@@ -9,19 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-xfun::embed_file("CurriculumVitae.pdf")
+<p>
+<img src="https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/images/CurriculumVitae-1.png" alt="Picture 1" width="790" height="600" style="display: block; margin: 0 auto" />
+</p>
 
-<a href="CurriculumVitae.docx">Nathaniel Braswell</a>
+<p>
+<img src="https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/images/CurriculumVitae-2.png" alt="Picture 2" width="790" height="600" style="display: block; margin: 0 auto" />
+</p>
 
-<object src="CurriculumVitae.pdf" type="application/pdf" title="CV" width="500" height="720">
-    <a href="CurriculumVitae.pdf">shree</a> 
-</object>
+<p>
+<img src="https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/images/CurriculumVitae-3.png" alt="Picture 2" width="790" height="600" style="display: block; margin: 0 auto" />
+</p>
 
-<embed src="CurriculumVitae.pdf" width="1000" height="800" frameborder="0" allowfullscreen>
-
-<iframe src="CurriculumVitae.pdf" style="width:1000px; height:800px;" frameborder="0" allowfullscreen></iframe>
-
-hi
+<p>
+<img src="https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/images/CurriculumVitae-4.png" alt="Picture 2" width="790" height="600" style="display: block; margin: 0 auto" />
+</p>
 
 Education
 ======
