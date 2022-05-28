@@ -15,7 +15,9 @@ redirect_from:
     <a href="CurriculumVitae.pdf">shree</a> 
 </object>
 
+<embed src="CurriculumVitae.pdf" width="1000" height="800" frameborder="0" allowfullscreen>
 
+<iframe src="CurriculumVitae.pdf" style="width:1000px; height:800px;" frameborder="0" allowfullscreen></iframe>
 
 Education
 ======
