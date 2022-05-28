@@ -11,6 +11,9 @@ redirect_from:
 
 <a href="CurriculumVitae.docx">Nathaniel Braswell</a>
 
+<object src="CurriculumVitae.pdf" type="application/pdf" title="CV" width="500" height="720">
+    <a href="CurriculumVitae.pdf">shree</a> 
+</object>
 
 
 
