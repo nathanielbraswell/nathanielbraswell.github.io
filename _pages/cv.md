@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: """
+title: "CV"
 permalink: /CV/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
 
 <p>
 <img src="https://raw.githubusercontent.com/nathanielbraswell/nathanielbraswell.github.io/master/images/CurriculumVitae-1.png" alt="Picture 1" width="790" height="600" style="display: block; margin: 0 auto" />
