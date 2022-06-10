@@ -1,0 +1,99 @@
+---
+permalink: /pendulum/
+title: "Pendulum"
+author_profile: false
+redirect_from: 
+  -  /markdown/
+  - /md/
+  - /markdown.html
+---
+
+<html>
+<head>
+  <title>Pendulum</title>
+  <link rel="stylesheet" type="text/css" href="PendulumCSS.css">
+  <script language="javascript" type="text/javascript" src="p5.js"></script>
+  <script language="javascript" type="text/javascript" src="Pendulum.js"></script>
+  <script language="javascript" type="text/javascript" src="sketch.js"></script>
+</head>
+<body>
+
+
+<div class="control">
+    <strong style="font-weight: bold; font-size: 32pt">Adjust Me!
+    </strong>
+    <br><br>
+
+    <button class="button" style="background-color: #323232"
+        input id="reset" type="button" value="Reset">
+
+        Reset
+    </button>
+    <br>
+
+
+    Length
+    <input id="Lslider" type="range" min="10" max="500" step="1" oninput="lsliderChange(parseInt(this.value/10)); lpx = (this.value);
+                                                                   angle=PI/4
+                                                                   AngularVel=(1 * force)/lm
+                                                                   AngularAcc=0
+                                                                   draw();">
+    <output id="LsliderVal"> 25 </output>
+    <br><br>
+
+
+    <!--
+    Mass
+    <input id="Mslider" type="range" min="0" max="100" step="1" oninput="msliderChange(this.value); m = parseInt(this.value);
+                                                                   draw();">
+    <output id="msliderVal"> 50 </output>
+    <br><br>
+
+-->
+    <br>
+    
+    Period
+    <input id="Gslider" type="range" min="0.5" max="7" step=".1" oninput="gsliderChange(this.value); g = (4*PI*PI*lm)/(this.value*this.value)/lpx;
+                                                                   angle=PI/4
+                                                                   AngularVel=(1 * force)/lm
+                                                                   AngularAcc=0
+                                                                   System.out.println(g);
+                                                                   draw();">
+    <output id="GsliderVal"> 3.7 </output>
+    <br>
+
+
+
+
+</div>
+
+
+<script>
+    function lsliderChange(val) {
+        document.getElementById('LsliderVal').innerHTML = val;
+    }
+
+    function gsliderChange(val) {
+        document.getElementById('GsliderVal').innerHTML = val;
+    }
+
+    document.getElementById('reset').onclick = function(){
+        lsliderChange(25);
+        gsliderChange(3.7);
+        document.getElementById('Lslider').value = 250;
+        document.getElementById('Gslider').value = 3.7;
+        angle=PI/4
+        AngularVel=(1 * force)/lm
+        AngularAcc=0
+        lpx=250
+        g=.16
+
+
+    }
+
+</script>
+
+
+</body>
+</html>
+
